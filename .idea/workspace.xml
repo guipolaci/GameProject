@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c6622e-1336-4ffc-9179-bd5573ab0214" name="Changes" comment="Creating the menu: background, sound and fonts; creating the const file">
+    <list default="true" id="38c6622e-1336-4ffc-9179-bd5573ab0214" name="Changes" comment="Menu changes: color change of the selected option, event triggering.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/background.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/entityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782446002599</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Menu changes: color change of the selected option, event triggering.">
+      <option name="closed" value="true" />
+      <created>1782693377835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782693377835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +208,7 @@
     <MESSAGE value="Commit fix" />
     <MESSAGE value="Creating main loop&#10;Connecting Menu and Game classes" />
     <MESSAGE value="Creating the menu: background, sound and fonts; creating the const file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the menu: background, sound and fonts; creating the const file" />
+    <MESSAGE value="Menu changes: color change of the selected option, event triggering." />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu changes: color change of the selected option, event triggering." />
   </component>
 </project>
